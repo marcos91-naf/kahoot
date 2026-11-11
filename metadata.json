@@ -1,0 +1,6 @@
+{
+  "name": "Kahoot Ventas por WhatsApp - Capacitación Comercial",
+  "description": "Juegos interactivos tipo Kahoot basados en la capacitación comercial de Ventas por WhatsApp: evolución del canal, políticas de Meta, SLA, funnel conversacional, triage y metodología BANT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
